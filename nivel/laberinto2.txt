@@ -1,0 +1,41 @@
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+x                mmmmmmmmmmmmuuuuuuuuuuuuuuuxxx                         xx
+x                          mmmmuuuuuuuuuuuuuxxx                     t   xx
+x                            mmmmuuuuuuuuuuuxxx      mmmmmmmmm          xx
+x    rrrr                       m   uuuuu   xxx    mmmmmmxxxxmm         xx
+x    xxxxxxxxxxxxxxxxxxx                    xxx   mmmmmmxxxxxmmm        xx
+x                   txxx     t         t    xxx    mmmmxxxxxm           xx
+x                    xxx                    xxx      mxxxxx            mxx
+xxxxxxxxxx    xxx    xxx      P             xxx      xxxxx           mmmxx
+xxxxxxxxxx    xxx    xxx                    xxx      xxxx       xx mmmmmxx
+xxx                   mm                             xxxx     mmxxmmmmmmxx
+xxx                  mmm     t         t         xxxxxxxx    mmmxx  mmmmxx
+xx       mmmmmm     mmmm                        xxxx            xx   mmmxx
+x      mmmmmmxxxx mmmmmmmm                     xxxx                   mmxx
+x    xxxxx mmxxxxmmmmmmmmmmmm                 xxxx                    mmxx
+x    xxxxx  mxxxxmmmmmmmmmmbbbb          bbbbbbxx      mmmmmm          mxx
+x    xx               mmmmmbbbbiiiiiiiiiibbbbbb      mmmmmmmmm          xx
+x    xx            rr    mmbbb              bbb     mmxxxxxxxxxxx       xx
+x    xx            rr       oo              ee        xxxxxxxxxxx       xx
+x    xx           rrr       oo              ee        xxxxxxxxxxx       xx
+x    x           rrrr       oo              ee        xxxxxxxxxxx       xx
+x    x    xx     rrr        oo             eee        xxxxxxxxxxx       xx
+x    x    xx     rrr    t   ooo             ee        xxxxxxxxxxx       xx
+x    x    xx     rrr        ooo             ee       mxxxxxxxxxxx       xx
+x    x    xx     rrr        oooooo     bbbbbbbb    mmmxxxxxxxxxxx     mmxx
+x         xx     rrr       bbbbaaaaaaaabbbbbbbb   mmmmmm            mmmmxx
+x         xx               bbbbaaaaaaaabbbbbbbb  mmmmmm   t        mmmmmxx
+x   m     xx              xbbbb        bbbbbbbbxxxxxxxxx        rrrmmmmmxx
+x  mmm xxxx              xxx                xxxxxxxxxxxxx        rr   mmxx
+xmmmmmxxx        xxxxxxxxxx                           xxxxx            mxx
+xmmmmxxx        xxx                                     xxxxx           xx
+xmmmxxx        xxx                                        xxxxx         xx
+xmmxxx        xxx      xxxxxxxx              xxxxxxxx       xxx         xx
+xmxxx    mmmmxxx        xxxxxx  t           t xxxxxx     mmmmxxxx       xx
+xxxx      mmxxxm        xxx                      xxx      mmmmxxx       xx
+xxx       mxxxmm        xxx                      xxx      mmmmxxx       xx
+x         xxxmmmmmm     xxx                      xxx          xxx     mmxx
+x        xxx            xxx                      xxx                 mmmxx
+x  t                    xxx     t           t    xxxmmm            mmmmmxx
+x                       xxx                      xxxmmmmmm       mmmmmmmxx
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
